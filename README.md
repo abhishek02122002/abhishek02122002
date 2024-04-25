@@ -1,3 +1,5 @@
+[![master](https://miro.medium.com/v2/resize:fit:828/format:webp/1*iLa3E1yYHoYhOloCqQv36Q.png)]
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
