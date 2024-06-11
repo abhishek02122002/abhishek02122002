@@ -1,4 +1,4 @@
-[![master](https://miro.medium.com/v2/resize:fit:828/format:webp/1*iLa3E1yYHoYhOloCqQv36Q.png)]
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
